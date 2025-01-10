@@ -13,7 +13,7 @@ Win Detection: Automated checks for a winner or a tie.
 Replay Option: Allows restarting the game after each round. 
 
 🛠️ ## *Technology Stack*
-Languages: HTML, CSS, JavaScript.
+**Languages: HTML, CSS, JavaScript.
 
 ## HOME PAGE
 <img width="420" alt="Screenshot 2024-12-14 170627" src="https://github.com/user-attachments/assets/933cb5ba-c000-450c-bb84-ee17af8716f2" />
