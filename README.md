@@ -7,8 +7,8 @@ To Open App:  https://shyamala9926.github.io/tic-tac-toe/
 Tic-Tac-Toe is a classic two-player game built using technologies like HTML, CSS, JavaScript. Players take turns placing "X" or "O" on a 3x3 grid until one player aligns three marks in a row (horizontal, vertical, or diagonal) or the grid is fully occupied, leading to a tie.
 
 🚀**Features**
-Two-Player Mode: Designed for local multiplayer games.
-Interactive UI: User-friendly grid layout for smooth gameplay.
+-Two-Player Mode: Designed for local multiplayer games.
+- Interactive UI: User-friendly grid layout for smooth gameplay.
 Win Detection: Automated checks for a winner or a tie.
 Replay Option: Allows restarting the game after each round. 
 
