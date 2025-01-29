@@ -9,7 +9,7 @@ Tic-Tac-Toe is a classic two-player game built using technologies like HTML, CSS
 🚀**Features**
 -Two-Player Mode: Designed for local multiplayer games.
 - Interactive UI: User-friendly grid layout for smooth gameplay.
-Win Detection: Automated checks for a winner or a tie.
+- Win Detection: Automated checks for a winner or a tie.
 Replay Option: Allows restarting the game after each round. 
 
 🛠️ ## *Technology Stack*
